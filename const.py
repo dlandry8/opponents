@@ -51,12 +51,12 @@ weaponTypes = {
     'staff': 4,
     'spear': 5,
     'blunt': 6,
-    'heavyBlunt': 7
-    'axe': 8
-    'battleaxe': 9
-    'bow': 10
-    'arrow': 11
-    'throwing': 12
+    'heavyBlunt': 7,
+    'axe': 8,
+    'battleaxe': 9,
+    'bow': 10,
+    'arrow': 11,
+    'throwing': 12,
 }
 skills = {
     # Weapon skills:
@@ -82,5 +82,5 @@ skills = {
     'focus': 0,           # Affects auto recovery rate of magic and special
 
     # Magic abilities:
-    'music': 0,           # Use songs to give an edge in combat.
+    'music': 0            # Use songs to give an edge in combat.
 }

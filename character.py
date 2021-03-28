@@ -40,8 +40,3 @@ class Character:
         
         # Skills
         self.skills = []
-        
-david = Character()
-david.templateClass = const.classTemplate['Sentry']
-print(david.level)
-print(david.templateClass)
